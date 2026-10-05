@@ -1,0 +1,14 @@
+EVERJOE FOLDER ORGANIZER — END USER LICENSE AGREEMENT
+
+Copyright (c) Everjoe. All rights reserved.
+Developer: Everjoe  ·  WhatsApp: +2349022406528
+
+1. License. Each license key allows one person to use the software on the computer it was
+   issued for (or on any computer if the key says so), for the period shown in the app.
+2. Restrictions. You may not share, resell, copy, reverse engineer or crack the software or
+   license keys.
+3. Your files. The software moves files on your computer only when you ask it to. It keeps
+   a history so every operation can be undone. Back up important data regularly; the
+   developer is not liable for data loss, to the extent the law allows.
+4. No warranty. The software is provided "as is", without warranty of any kind.
+5. Support. Contact the developer on WhatsApp for help, renewals and business licenses.
