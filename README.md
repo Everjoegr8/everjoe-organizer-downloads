@@ -1,45 +1,46 @@
-# Everjoe Folder Organizer
+# TidyMate: automatic file organizer for Windows
 
-**Messy folders, sorted in seconds.** Everjoe Folder Organizer moves the files in your Downloads, Desktop or Documents folder into neat folders (Images, Documents, Music, Videos and more). You preview everything first, and you can undo anytime.
+**Messy files. Sorted.** TidyMate sorts your Downloads, Desktop and Documents folders in seconds, files invoices, receipts and bank statements by what's inside them, and keeps folders tidy automatically. Everything happens on your PC: no uploads, no tracking.
 
-![Organize preview](screenshots/organize-preview.png)
+Website: **[everjoe-organizer.vercel.app](https://everjoe-organizer.vercel.app/)** · formerly *Everjoe Folder Organizer*
 
-## ⬇️ Download (Windows 10 / 11)
+![TidyMate preview before moving files](https://everjoe-organizer.vercel.app/img/shots/preview.jpg)
+
+## Download (Windows 11 / 10, 64-bit)
 
 | | |
 |---|---|
-| **[Download the app + User Guide (.zip)](https://github.com/Everjoegr8/everjoe-organizer-downloads/releases/latest/download/EverjoeOrganizer-Customer-Package.zip)** | Recommended |
-| [Just the app (.exe)](https://github.com/Everjoegr8/everjoe-organizer-downloads/releases/latest/download/EverjoeOrganizer.exe) | No install needed |
-| [User Guide (PDF)](https://github.com/Everjoegr8/everjoe-organizer-downloads/releases/latest/download/Everjoe-Organizer-User-Guide.pdf) | Step-by-step, with pictures |
-| [All versions](https://github.com/Everjoegr8/everjoe-organizer-downloads/releases) | Release history |
+| **[Microsoft Store](https://apps.microsoft.com/detail/9P83X4N9KN2K)** | Recommended: automatic updates |
+| **[Installer (.exe)](https://github.com/Everjoegr8/everjoe-organizer-downloads/releases/latest/download/TidyMate-Setup.exe)** | Start menu shortcut and uninstaller |
+| [Portable app (.exe)](https://github.com/Everjoegr8/everjoe-organizer-downloads/releases/latest/download/TidyMate-Portable.exe) | No install needed |
+| [User Guide (PDF)](https://github.com/Everjoegr8/everjoe-organizer-downloads/releases/latest/download/TidyMate-User-Guide.pdf) | Step by step, with pictures |
+| [All versions](https://github.com/Everjoegr8/everjoe-organizer-downloads/releases) | Release history and SHA256 checksums |
 
-> If Windows says *"Windows protected your PC"*, click **More info → Run anyway**.
+Package managers (pending approval): `winget install Everjoe.TidyMate` · `choco install tidymate`
 
 ## Features
 
-- 🗂 **Sort by file type, date or extension**
-- 📤 **Unpack folders**: pull every file out of sub-folders, then delete the empty folders
-- 👀 **Preview first**: nothing moves until you say so
-- ⏪ **Undo anytime**: every job is saved in History, even after a restart
-- 🛡 **Safe**: never touches Windows folders, code projects, hidden files or unfinished downloads, and never overwrites a file
-- ⚙ **Your own rules**, light & dark mode, and a right-click "Organize with Everjoe" option
+- **Sort by file type, date or extension**, with a preview of every move
+- **Smart Rules** that read inside PDF, Word, Excel and PowerPoint files to file invoices, receipts, bank statements, CVs and contracts, renamed to a consistent pattern
+- **Watch Folders**: new downloads are filed the moment they finish
+- **Undo anytime** from History, even after a restart
+- **Unpack folders**, and export or import rules across an office
+- **Safe**: never deletes or overwrites a file, never touches Windows folders, code projects or unfinished downloads
 
-| Unpack Folders | History & Undo | Dark mode |
-|---|---|---|
-| ![](screenshots/unpack-folders.png) | ![](screenshots/history-undo.png) | ![](screenshots/dark-mode.png) |
+| Organize | Smart Rules | Watch Folders | History & Undo |
+|---|---|---|---|
+| ![](https://everjoe-organizer.vercel.app/img/shots/organize.jpg) | ![](https://everjoe-organizer.vercel.app/img/shots/smart.jpg) | ![](https://everjoe-organizer.vercel.app/img/shots/watch.jpg) | ![](https://everjoe-organizer.vercel.app/img/shots/history.jpg) |
 
-## Get a license
+## Plans
 
-The download is a free **demo** (it previews everything). To organize files:
+TidyMate has a **free plan**. Paid plans (Personal, Pro, Business and Enterprise) add more folders, Smart Rules, Watch Folders and company branding, paid monthly or yearly in Naira (Paystack) or US dollars (Stripe). See [current prices](https://everjoe-organizer.vercel.app/#pricing).
 
-1. Open the app → **Activate** → **Buy on WhatsApp** (your Machine ID is included automatically).
-2. Pay, and receive your license key.
-3. Paste the key and click **Activate**.
+## Help
 
-<img src="screenshots/activation.png" width="420" alt="Activation window">
-
-**Contact:** [WhatsApp +234 902 240 6528](https://wa.me/2349022406528)
+- Guide: [How to organize your Downloads folder automatically](https://everjoe-organizer.vercel.app/organize-downloads-folder)
+- Press kit: [everjoe-organizer.vercel.app/press](https://everjoe-organizer.vercel.app/press)
+- Email: [everjoe514myown@gmail.com](mailto:everjoe514myown@gmail.com)
 
 ---
 
-Designed & developed by **Everjoe**. Proprietary software, see [EULA.txt](EULA.txt). This repository only hosts the downloads.
+Designed & developed by **Everjoe** (Egwu Joseph Nnanna), ERA Technologiz, Lagos, Nigeria. Proprietary software, see [EULA.txt](EULA.txt). This repository only hosts the downloads.
